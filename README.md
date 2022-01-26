@@ -18,4 +18,4 @@ A Movie and Series Review System Using PHP
 - If you find any issue, feel free to open an issue
 - If you want to upgrade or add any feature, feel free to make a pull request
 - You can also fork this repository
-- And please start this repository, if you like the app.
+- And please star this repository, if you like the app.
